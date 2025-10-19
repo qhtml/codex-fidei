@@ -1,6 +1,17 @@
-# codex-fidei
-this is a compilation of the holy books from Hebrew, Christianity, and Muslim faiths all combined together in chronological order with references to specific countries and/or groups of people reworded with generic terms  and violent rhetoric removed. 
+# Codex Fidei
 
-The process of sanitizing these books was not done by hand, but rather using artficial intelligence to ensure neutrality. 
+This repository compiles public-domain English translations of the sacred scriptures of Judaism (Tanakh), Christianity (Old & New Testament), and Islam (Qur’an) into a single, chronologically ordered anthology. Each text has been normalized and edited to remove references to specific ethnic groups, national identities, or violent rhetoric, and replaced with inclusive, universal language.  
 
-If you disagree with any changes, or timelines, feel free to report an Issue on this github repo.
+**Included Sources**  
+- Tanakh (Jewish Scriptures)  
+- Christian Bible (Old and New Testaments)  
+- Qur’an (English translation)  
+
+**Purpose**  
+The goal of this project is to preserve the ethical, spiritual, and communal core of these traditions while removing sectarian and tribal emphasis. The result is a respectful, shared foundation for reflection across faiths rather than a claim for any one tradition’s exclusivity.  
+
+**Editing Process**  
+This collection was compiled and processed with the aid of automated tools. While care has been taken to maintain fidelity to original meaning, the edits reflect a conscious choice to re-frame the texts in broadly inclusive language.  
+
+**Feedback & Contributions**  
+Questions, suggestions, or concerns about the editing choices, chronology, or translation sources are welcome. Please open an Issue in this repository to begin a discussion.  
