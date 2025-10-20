@@ -8,7 +8,7 @@ This repository compiles public-domain English translations of the sacred script
 - Qur’an (English translation)  
 
 **Purpose**  
-The goal of this project is to preserve the ethical, spiritual, and communal core of these traditions while removing sectarian and tribal emphasis. The result is a respectful, shared foundation for reflection across faiths rather than a claim for any one tradition’s exclusivity.  
+The goal of this project is to preserve the ethical, spiritual, and communal core of these traditions while showing that they are all books of the same story. 
 
 **Editing Process**  
 This collection was compiled and processed with the aid of automated tools. The original texts were included word-for-word.  
